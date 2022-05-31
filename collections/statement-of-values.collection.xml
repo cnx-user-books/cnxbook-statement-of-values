@@ -1,0 +1,35 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11467</md:content-id>
+    <md:title>! Statement of Values !</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f9a3ab52-20bd-438d-9c54-8c61397c276b</md:uuid>
+<md:slug>statement-of-values</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Things to do with values</md:title>
+      <col:content>
+        <col:module document="m14319"/>
+        <col:module document="m15783"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Values and Teamwork</md:title>
+      <col:content>
+        <col:module document="m13760"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Value Profiles</md:title>
+      <col:content>
+        <col:module document="m45376"/>
+        <col:module document="m44683"/>
+        <col:module document="m46865"/>
+        <col:module document="m46866"/>
+        <col:module document="m47211"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
